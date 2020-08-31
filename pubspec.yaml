@@ -45,9 +45,33 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/gone_girl.jpg
+    - assets/rosamund_pike.jpg
+    - assets/ben_affleck.jpg
+    - assets/niel_patrick_harris.jpg
+    - assets/parasite.jpg
+    - assets/song_kang_ho.jpg
+    - assets/choi-woo-shik.jpg
+    - assets/park-so-dam.jpg
+    - assets/infinity-war.jpg
+    - assets/endgame.jpg
+    - assets/ce.jpg
+    - assets/cp.jpg
+    - assets/ch.jpg
+    - assets/rdjr.jpg
+    - assets/th.jpg
+    - assets/mr.jpg
+    - assets/sj.jpg
+    - assets/eo.jpg
+    - assets/jb.jpg
+    - assets/bc.jpg
+    - assets/jurassic-park.jpg
+    - assets/ar.jpeg
+    - assets/jg.jpeg
+    - assets/ld.jpeg
+    - assets/ra.jpeg
+    - assets/sn.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -60,17 +84,9 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
-  #       - asset: fonts/Schyler-Italic.ttf
-  #         style: italic
-  #   - family: Trajan Pro
-  #     fonts:
-  #       - asset: fonts/TrajanPro.ttf
-  #       - asset: fonts/TrajanPro_Bold.ttf
-  #         weight: 700
-  #
+  fonts:
+    - family: LuckiestGuy
+      fonts:
+        - asset: fonts/LuckiestGuy-Regular.ttf
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

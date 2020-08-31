@@ -1,4 +1,4 @@
-# moviecatalogue
+# Movie Catalogue
 
 A new Flutter application.
 
